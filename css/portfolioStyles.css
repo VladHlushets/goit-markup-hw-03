@@ -26,6 +26,8 @@ body {
   line-height: 1.714;
   letter-spacing: 0.03em;
   color: var(--secondary-text-color);
+  margin: 0;
+  padding-top: 0;
 }
 
 .main {
@@ -113,4 +115,4 @@ body {
   height: 1px !important;
   width: 1px !important;
   overflow: hidden;
-} (edited)
+}
